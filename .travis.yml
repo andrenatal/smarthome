@@ -1,7 +1,7 @@
 # openHAB travis.yml
 branches:
   only:
-    - master
+    - nar-maven-impl
 
 language: java
 
